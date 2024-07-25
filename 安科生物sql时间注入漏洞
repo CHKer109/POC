@@ -1,4 +1,4 @@
-#sql时间注入漏洞
+#安科生物sql时间注入漏洞
 #导包外置
 import requests,argparse
 from multiprocessing.dummy import Pool
